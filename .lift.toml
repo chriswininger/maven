@@ -1,3 +1,10 @@
 #tools=["Bill Of Materials", "Cobra", "ErrorProne", "Open Source Vulnerabilities", "Semgrep", "refactor-first"]
-tools=["ErrorProne", "Cobra", "FindSecBugs"]
+
+# works
+#tools=["ErrorProne", "Cobra"]
+
+# does not work
+#tools=["ErrorProne", "Cobra", "FindSecBugs"]
+
+tools=["ErrorProne", "Cobra", "Infer"]
 
