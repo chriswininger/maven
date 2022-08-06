@@ -9,5 +9,8 @@
 # Failed
 #tools=["ErrorProne", "Cobra", "Infer"]
 
-tools=["Cobra", "Infer"]
+# Failed
+#tools=["Cobra", "Infer"]
+
+tools=["Infer"]
 
