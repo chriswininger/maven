@@ -6,5 +6,8 @@
 # does not work
 #tools=["ErrorProne", "Cobra", "FindSecBugs"]
 
-tools=["ErrorProne", "Cobra", "Infer"]
+# Failed
+#tools=["ErrorProne", "Cobra", "Infer"]
+
+tools=["Cobra", "Infer"]
 
