@@ -1,7 +1,7 @@
 #tools=["Bill Of Materials", "Cobra", "ErrorProne", "Open Source Vulnerabilities", "Semgrep", "refactor-first"]
 
 # works
-#tools=["ErrorProne", "Cobra"]
+tools=["ErrorProne", "Cobra"]
 
 # does not work
 #tools=["ErrorProne", "Cobra", "FindSecBugs"]
@@ -12,5 +12,6 @@
 # Failed
 #tools=["Cobra", "Infer"]
 
-tools=["Infer"]
+# Failed
+#tools=["Infer"]
 
